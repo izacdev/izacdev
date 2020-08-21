@@ -1,0 +1,57 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    color: #f5edb3;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    background-color: rgb(42, 73, 73);
+    padding-top: 18px;
+    padding-bottom: 8px;
+    font-weight: bolder;
+}
+h1:hover{
+    color: skyblue;
+}
+#bio{
+    margin-left: 10px;
+}
+h3{
+    color: rgb(42, 73, 73);
+    margin: 0;
+}
+ul{
+    padding-top: 2px;
+}
+li{
+    border-bottom: 1px #fff dotted;
+    margin-left: 10px;
+    padding-top: 18px;
+    list-style-type: circle;
+}
+li:hover{
+    color: #fff;
+}
+select{
+    text-align: center;
+    background-color: rgb(42, 73, 73);
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(42, 73, 73);
+}
+#fb{
+    color: rgb(2, 2, 238);
+}
+#email{
+    color: rgb(185, 53, 53);
+}
+#call{
+    color: rgb(170, 160, 160);
+}
+#insta{
+    color: rgb(212, 114, 131);
+}
